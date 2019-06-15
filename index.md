@@ -1,2 +1,0 @@
-# IDP-PROYECTO
-Request-tracker
